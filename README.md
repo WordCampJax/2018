@@ -1,2 +1,1 @@
-# WordCamp Jacksonville 2018
-Resources for 2018
+# WordCamp Website Remote Stylesheet
